@@ -1,0 +1,12 @@
+{
+  "name": "planning-equipe",
+  "version": "1.0.0",
+  "description": "Gestionnaire de planning équipe avec sync temps réel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
